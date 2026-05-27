@@ -1,0 +1,1 @@
+require('akatsuki').load('light')

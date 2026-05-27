@@ -1,0 +1,29 @@
+# Akatsuki Light
+# https://github.com/eduardomillanrs/akatsuki.nvim
+
+background = #FFFFFF
+foreground = #1D2636
+cursor-color = #2D7CA5
+cursor-text = #FFFFFF
+selection-foreground = #111A2A
+selection-background = #DDE9FF
+
+# Normal colors
+palette = 0=#1D2636
+palette = 1=#B4556A
+palette = 2=#2F7A55
+palette = 3=#9B7A2F
+palette = 4=#2D7CA5
+palette = 5=#6D5FB3
+palette = 6=#2E7D79
+palette = 7=#DCE5F4
+
+# Bright colors
+palette = 8=#55627A
+palette = 9=#C96B7F
+palette = 10=#3E8F67
+palette = 11=#AC8D43
+palette = 12=#3E90BB
+palette = 13=#8173C6
+palette = 14=#3B908B
+palette = 15=#F7FAFF
