@@ -64,7 +64,7 @@ require('akatsuki').setup({
   terminal_colors = true,
   styles = {
     comments = { italic = true },
-    keywords = { bold = true },
+    keywords = {},
     functions = { italic = true },
     variables = {},
     operators = {},

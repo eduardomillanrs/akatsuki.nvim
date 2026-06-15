@@ -90,7 +90,7 @@ return {
     dark  = {
         none                    = 'NONE',
 
-        bg                      = '#151922',
+        bg                      = '#0e1018',
         bg_dark                 = '#0a0c12',
         bg_float                = '#11151e',
         bg_elevated             = '#14161e',

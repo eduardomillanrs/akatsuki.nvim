@@ -1,10 +1,10 @@
 # Akatsuki Dark
 # https://github.com/eduardomillanrs/akatsuki.nvim
 
-background = #151922
+background = #0e1018
 foreground = #c8d0e0
 cursor-color = #80c8e0
-cursor-text = #151922
+cursor-text = #0e1018
 selection-foreground = #dce4f0
 selection-background = #1e2430
 
