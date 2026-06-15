@@ -143,7 +143,7 @@ return {
         match_paren             = '#d4b878',
         guide                   = '#181c26',
         guide_active            = '#282e3c',
-        nontext                 = '#222838',
+        nontext                 = '#586478',
 
         terminal_black          = '#0e1018',
         terminal_red            = '#c46c78',
@@ -240,7 +240,7 @@ return {
         match_paren             = '#B58B2D',
         guide                   = '#E2EAF7',
         guide_active            = '#C5D3EA',
-        nontext                 = '#CDD8EA',
+        nontext                 = '#7D8AA3',
 
         terminal_black          = '#1D2636',
         terminal_red            = '#B4556A',
